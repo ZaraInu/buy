@@ -75,15 +75,15 @@ const About = () => {
           <p>
             We built this project for Strong  Community, <span className="text-3xl font-bold">BTH</span>{" "}
             holders{" "}
-            <span className="italic font-semibold">April 1, 2025</span>,
+            <span className="italic font-semibold"></span>,
             .
           </p>
           <p className="text-4xl p-10">
-            But now{" "}
+            {" "}
             <span className="text-5xl font-bold underline decoration-duis">
               
             </span>{" "}
-            is forever on{" "}
+            Forever on{" "}
             <span className="text-5xl bg-gradient-to-r from-[#9945FF] to-[#14F195] inline-block text-transparent bg-clip-text font-bold">
               Solana support
             </span>{" "}
