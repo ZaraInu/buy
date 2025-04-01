@@ -21,7 +21,7 @@ const Footer = () => {
             </span>
           </p>
           <p className="text-black mt-4 px-3 text-base sm:text-lg md:text-2xl opacity-30 break-words">
-            {contractAddress}
+            {}
           </p>
         </div>
       </div>
