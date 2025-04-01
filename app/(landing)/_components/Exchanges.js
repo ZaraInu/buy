@@ -5,12 +5,12 @@ const exchanges = [
   {
     flag: "PumpFun",
     title: "Buy",
-    link: "https://dexscreener.com/solana/8j5r6kteet9cm6wamq2mwb2sneu97cz1jtksdg76moon",
+    link: "https://dexscreener.com/solana/4qqm2x2pfhu3toscaqkqxtfhtm7dmje8lgwu9kvqenh4",
   },
   // {
   //   flag: "Binance",
   //   title: "Binance",
-  //   link: "https://pump.fun/coin/99b83VR35uBkxkq3XmFhyEvSFfuQKZeXPwNzG4wxpump",
+  //   link: "https://dexscreener.com/solana/4qqm2x2pfhu3toscaqkqxtfhtm7dmje8lgwu9kvqenh4",
   // },
 ];
 
